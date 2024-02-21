@@ -1,0 +1,7 @@
+{
+  "name": "mapleaflet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
